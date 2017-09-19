@@ -1,0 +1,11 @@
+{
+  "name": "RedisPipelineCommander",
+  "version": "0.0.1",
+  "description":"Auto distribution between Redis nodes and merging a queries to pipelines. Transactions support",
+  "keywords" : ["redis","pipelines","sharding"],
+  "main":"index.js",
+  "dependencies": {
+    "bluebird": "^1.0.0",
+    "ioredis": "^2.0.0"
+  }
+}
