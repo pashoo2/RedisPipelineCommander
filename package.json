@@ -1,8 +1,8 @@
 {
-  "name": "RedisPipelineCommander",
+  "name": "@pashoo2/redis-pipeline-commander",
   "version": "0.0.1",
   "description":"Auto distribution between Redis nodes and merging a queries to pipelines. Transactions support",
-  "keywords" : ["redis","pipelines","sharding"],
+  "keywords" : ["redis","pipeline","sharding","auto pipeline", "auto sharding"],
   "main":"index.js",
   "dependencies": {
     "bluebird": "^1.0.0",
